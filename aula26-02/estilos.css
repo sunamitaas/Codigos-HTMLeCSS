@@ -1,12 +1,12 @@
-p   {
-    color: black;
-    background-color: #4F6F52;
+body{
+    color: rgb(214, 214, 214);
+    background-color: #000000;
     font-size: 12xp;
     font-family: 'Segoe UI';
     color: #B67352;
     }
 
-h1 {border: 1px solid rgb(3, 3, 3); 
+h1 {border: 1px solid #B67352; 
     padding-top: 30px;
     padding-right: 40px;
     padding-bottom: 10px;
@@ -14,7 +14,7 @@ h1 {border: 1px solid rgb(3, 3, 3);
     color: #8CB9BD;
     }
 
-h2 {border:1px solid rgb(0, 0, 0);
+h2 {border:10px solid #B67352;
     padding-top: 30px;
     padding-right: 40px;
     padding-bottom: 10px;
@@ -22,23 +22,23 @@ h2 {border:1px solid rgb(0, 0, 0);
     color: #B67352;
     }
 
-h3 {border: 1px solid rgb(0, 0, 0); 
+h3 {border: 1px solid rgb(128, 93, 93); 
     padding-top: 30px;
     padding-right: 40px;
     padding-bottom: 10px;
     padding-left: 40px;
-    color: #B67352;
+    color: #8CB9BD;
     }
 
-h4 {border: 1px solid rgb(0, 0, 0); 
+h4 {border: 1px solid rgb(138, 117, 117); 
     padding-top: 30px;
     padding-right: 30px;
     padding-bottom: 10px;
     padding-left: 40px;
-    color: #8CB9BD;
+    color: #B67352;
     }
 
-h5 {border: 1px solid rgb(0, 0, 0); 
+h5 {border: 10px solid #B67352; 
     padding-top: 30px;
     padding-right: 30px;
     padding-bottom: 10px;

@@ -1,0 +1,49 @@
+p   {
+    color: black;
+    background-color: #4F6F52;
+    font-size: 12xp;
+    font-family: 'Segoe UI';
+    color: #B67352;
+    }
+
+h1 {border: 1px solid rgb(3, 3, 3); 
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    color: #8CB9BD;
+    }
+
+h2 {border:1px solid rgb(0, 0, 0);
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    color: #B67352;
+    }
+
+h3 {border: 1px solid rgb(0, 0, 0); 
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    color: #B67352;
+    }
+
+h4 {border: 1px solid rgb(0, 0, 0); 
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    color: #8CB9BD;
+    }
+
+h5 {border: 1px solid rgb(0, 0, 0); 
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    color: #8CB9BD;
+    }
+
+  

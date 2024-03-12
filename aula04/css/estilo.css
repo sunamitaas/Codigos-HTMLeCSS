@@ -1,0 +1,34 @@
+body { 
+    background-color: #F6F5F5;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    color: #464646;
+   
+}
+
+.tables{
+    float: center; 
+    width: 60%;
+    margin: 1px;
+    padding: 150px;
+    border-radius: 20px;
+    flex: 1;
+
+}
+
+
+h1{
+    color: #378CE7;
+}
+
+
+h2 {
+    color: #5356FF;
+}
+
+section {
+    width: 100%;
+    margin-top: 0%;
+    padding-bottom: 5px;
+    border-top: solid 1px rgb(255, 255, 255);
+}
+
